@@ -1,4 +1,5 @@
 # Porch Pirate Game
+Project by Tim, Ria, Francisco & Saurav
 
 ## Overview
 
